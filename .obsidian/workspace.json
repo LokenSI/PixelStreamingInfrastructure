@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "382001dc5fa2f537",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a84782d4ec37677",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73e0a1d4c49021e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frontend/Docs/Customizing Player Input Options.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1be0b8e4e756525e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b81845c0ba48e68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83374a4649503d54",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "04f94b07244a624c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3a794af8e8f34342",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "117d4d0d2094db83",
+    "type": "split",
+    "children": [
+      {
+        "id": "beef802000b52dcb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "926c34e632228f05",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Frontend/Docs/Customizing Player Input Options.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6dea11c7baff08bd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Frontend/Docs/Customizing Player Input Options.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8a20296ebdb7527d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d3abac05d32bb7ca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Frontend/Docs/Customizing Player Input Options.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "73e0a1d4c49021e4",
+  "lastOpenFiles": [
+    "AzureMods/fromDeployment/msImprovedWebservers.zip",
+    "Matchmaker/tps/cors.tps",
+    "Matchmaker/tps/bcrypt-js.tps",
+    "Matchmaker/tps/azure-sdk-for-js.tps",
+    "Matchmaker/tps/applicationinsights.tps",
+    "Matchmaker/tps",
+    "Matchmaker/node_modules/@types/cookie/README.md",
+    "Matchmaker/node_modules/@types/cookie/package.json",
+    "Matchmaker/node_modules/@types/cookie/LICENSE",
+    "Matchmaker/node_modules/@types/cookie/index.d.ts",
+    "Matchmaker/node_modules/@types/cookie",
+    "Matchmaker/setup.bat",
+    "Matchmaker/node_modules/finalhandler/node_modules/debug/README.md",
+    "Matchmaker/node_modules/finalhandler/node_modules/debug/CHANGELOG.md",
+    "Matchmaker/node_modules/finalhandler/README.md",
+    "Matchmaker/node_modules/finalhandler/SECURITY.md",
+    "Matchmaker/node_modules/finalhandler/HISTORY.md",
+    "Matchmaker/node_modules/function-bind/README.md",
+    "Matchmaker/node_modules/cors/README.md",
+    "Matchmaker/node_modules/cors/HISTORY.md",
+    "Matchmaker/node_modules/cors/CONTRIBUTING.md",
+    "Matchmaker/node_modules/mime/README.md",
+    "Matchmaker/node_modules/mime/CHANGELOG.md",
+    "Matchmaker/node_modules/qs/LICENSE.md",
+    "Matchmaker/node_modules/qs/README.md",
+    "Matchmaker/node_modules/qs/CHANGELOG.md",
+    "Matchmaker/node_modules/emoji-regex/README.md",
+    "Matchmaker/node_modules/depd/Readme.md",
+    "Matchmaker/node_modules/depd/History.md",
+    "Matchmaker/node_modules/call-bind/README.md",
+    "Matchmaker/node_modules/call-bind/CHANGELOG.md",
+    "Matchmaker/node_modules/has/README.md",
+    "Matchmaker/node_modules/ipaddr.js/README.md",
+    "Matchmaker/node_modules/ws/README.md",
+    "Matchmaker/node_modules/@types/node/README.md",
+    "Matchmaker/node_modules/yargs-parser/CHANGELOG.md"
+  ]
+}

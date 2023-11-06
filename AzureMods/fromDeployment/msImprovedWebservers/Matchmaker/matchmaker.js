@@ -163,17 +163,6 @@ if (config.enableHttps) {
   })
 }
 
-let htmlDirectory = "html/sample"
-if (config.EnableWebserver) {
-  // Setup folders
-
-  if (fs.existsSync("html/custom")) {
-    app.use(express.static(path.join(__dirname, "/html/custom")))
-    htmlDirectory = "html/custom"
-  } else {
-    app.use(express.static(path.join(__dirname, "/html/sample")))
-  }
-}
 //If not using authetication then just move on to the next function/middleware
 var isAuthenticated = (redirectUrl) =>
   function (req, res, next) {
